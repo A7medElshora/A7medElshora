@@ -7,58 +7,81 @@
   <a href="https://www.instagram.com/elshora__"><img src="https://img.shields.io/badge/Instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Flutter+Mobile+App+Developer;Clean+Architecture+Enthusiast;Loves+Dart+%26+Open+Source" alt="Typing SVG" />
+</p>
+
+---
+
 <img src="https://avatars.githubusercontent.com/u/167217387?s=400&u=b23c49bd2781ad7b55bb0e4098374c72a3c72d6f&v=4" align="right" width="25%"/>
 
-<p>
-I'm <b>Ahmed Elshora</b>, a passionate <b>Flutter Mobile App Developer</b> based in Egypt. I specialize in crafting elegant, scalable, and high-performance cross-platform apps. Currently working at <b>TABIB SOFT</b>, I have developed and published several mobile applications focused on healthcare, education, and more.
+### 👨‍💻 About Me
+
+I’m **Ahmed Elshora**, a passionate **Flutter Developer** from Egypt 🇪🇬  
+With a sharp eye for clean architecture and pixel-perfect design, I build cross-platform mobile applications that make a real impact.
+
+🚀 Currently working at **TABIB SOFT**  
+📱 Built apps like **Egy Health Trip**, **Spectra Clinic**, and **معاهد.كوم**  
+🎓 Graduated from **Egyptian e-Learning University** (2024)  
+
+---
+
+### 🛠️ My Toolbox
+
+- 🚀 Flutter / Dart
+- 📱 Cross-Platform iOS & Android
+- 🧠 Clean Architecture (MVVM, BLoC)
+- 🔥 Firebase / Firestore / Push Notifications
+- 🎨 UI/UX Focused Development
+- 🔌 REST APIs / GraphQL
+- 🧪 Unit & Widget Testing, CI/CD
+
+---
+
+### 📱 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| **Egy Health Trip** | Medical tourism app built with Flutter |
+| **Spectra Clinic** | Appointment management & patient records |
+| **Dr_Ahmed AbdelAzem** | Personal health consultant app |
+| **معاهد.كوم** | Arabic educational platform available on Google Play |
+| **Tilapia Disease Detector** | AI-powered fish health scanner app |
+
+---
+
+### 📈 GitHub Stats & Tools
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedElshora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElshora&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most+Used+Languages&hide=html,css" height="170px"/>
 </p>
 
-<h2>🧠 About Me</h2>
-<ul>
-  <li>🎓 Bachelor's in Information Technology – Egyptian e-Learning University (2020 – 2024)</li>
-  <li>💼 Flutter Developer at <b>TABIB SOFT</b> (2024 – Present)</li>
-  <li>📱 Built apps like <i>Egy Health Trip</i>, <i>Dr_Ahmed AbdelAzem</i>, <i>Spectra Clinic</i>, <i>Dr_Dabor</i>, and <i>معاهد.كوم</i></li>
-  <li>🎓 Interned at Instant Software Solutions and completed several advanced Flutter courses</li>
-</ul>
-
-<h2>🚀 Projects</h2>
-<ul>
-  <li><b>Egy Health Trip</b> – Medical tourism app for booking treatment packages</li>
-  <li><b>Dr_Ahmed AbdelAzem</b> – Professional healthcare consultation app</li>
-  <li><b>Spectra Clinic</b> – Medical appointment & records app for clinics</li>
-  <li><b>معاهد.كوم</b> – Educational app in Arabic, live on Google Play</li>
-  <li><b>Tilapia Disease Detection</b> – AI-based graduation project to diagnose fish health via images</li>
-</ul>
-
-<h2>🛠️ What I Bring to the Table</h2>
-<ul>
-  <li><b>Cross-Platform Development</b>: Expert in Flutter and Dart for iOS & Android apps</li>
-  <li><b>Clean Architecture</b>: MVVM, BLoC, and layered architecture for maintainable code</li>
-  <li><b>API Integration</b>: RESTful APIs, Firebase, GraphQL</li>
-  <li><b>UI/UX</b>: Clean, responsive, and accessible designs with pixel-perfect implementation</li>
-  <li><b>Performance</b>: Memory optimization, async programming, and state management (Provider, Riverpod, BLoC)</li>
-</ul>
-
-<h2>💻 Technical Skills</h2>
-<ul>
-  <li><b>Languages:</b> Dart, JavaScript, Python</li>
-  <li><b>Frameworks:</b> Flutter, React Native (Basics)</li>
-  <li><b>Tools:</b> Android Studio, VS Code, Git</li>
-  <li><b>Backend:</b> Firebase, Firestore, Authentication, Push Notifications</li>
-  <li><b>Testing & DevOps:</b> Unit/Widget testing, CI/CD pipelines</li>
-</ul>
-
-<h2>📚 Courses & Certifications</h2>
-<ul>
-  <li>✅ Clean Architecture in Flutter [2024]</li>
-  <li>✅ Advanced BLoC & MVVM [2024]</li>
-  <li>✅ Data Structures & Problem Solving in Dart [2023]</li>
-  <li>✅ Complete Flutter Development Bootcamps (Udemy, Creativa Hub) [2022–2023]</li>
-</ul>
-
-<h2>📊 GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElshora&layout=compact&theme=dark" width="400">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,vscode,androidstudio" />
 </p>
 
-<p>I'm always looking for exciting opportunities and collaborations. Let's connect and build impactful mobile experiences together! 🚀</p>
+---
+
+### 📚 Courses & Certifications
+
+- ✅ Clean Architecture in Flutter – 2024  
+- ✅ Advanced BLoC & MVVM Pattern – 2024  
+- ✅ Data Structures & Algorithms in Dart – 2023  
+- ✅ Flutter Bootcamps (Creativa Hub, Udemy) – 2022–2023  
+
+---
+
+### 📬 Connect with Me
+
+💬 Open to collaboration, freelance work, or full-time remote roles  
+📧 Elshoraa14@gmail.com  
+📱 WhatsApp: [+201050815073](https://wa.me/+201050815073)
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="150px"/>
+</p>
+
+<p align="center"><i>“Code with purpose. Design with empathy. Build for everyone.”</i></p>
