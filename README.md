@@ -50,18 +50,7 @@ With a sharp eye for clean architecture and pixel-perfect design, I build cross-
 
 ---
 
-### 📈 GitHub Stats & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedElshora&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElshora&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most+Used+Languages&hide=html,css" height="170px"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,git,vscode,androidstudio" />
-</p>
-
----
 
 ### 📚 Courses & Certifications
 
