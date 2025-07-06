@@ -73,4 +73,3 @@ With a sharp eye for clean architecture and pixel-perfect design, I build cross-
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="150px"/>
 </p>
 
-<p align="center"><i>“Code with purpose. Design with empathy. Build for everyone.”</i></p>
