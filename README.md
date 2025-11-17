@@ -65,7 +65,7 @@ With a sharp eye for clean architecture and pixel-perfect design, I build cross-
 
 💬 Open to collaboration, freelance work, or full-time remote roles  
 📧 Elshoraa14@gmail.com  
-🌍 https://a7medelshora.github.io/Elshora-portfolio/
+🌍 https://a7medelshora.github.io/Elshora-portfolio/ <br>
 📱 WhatsApp: [+201050815073](https://wa.me/+201050815073)
 
 ---
